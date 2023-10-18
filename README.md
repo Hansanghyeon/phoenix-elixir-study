@@ -1,6 +1,10 @@
 ## 엘릭서 배우기
 
+- https://livebook.dev/
+  - 개발 생산성 up
+  - 디비툴로 DB를 보는 툴로 보지 않아도된다.
 - [Hansanghyeon/study-elixir](https://github.com/Hansanghyeon/study-elixir)
+
 
 ## 피닉스 배우기
 
